@@ -61,7 +61,7 @@
 ---
 
 
-### Logic 
+### General 
 
 1. What is the Model class?
 2. What is Helper class which can we use?
@@ -84,3 +84,37 @@
 
 
 ### Database 
+
+1. Definition of Database?
+2. Which local database is used in Android?
+3. Full form of SQL?
+4. Which class is used to create a Database in SQLite?
+5. Write CRUD operation SQL query.
+6. What is RoomDatabse?
+7. Difference between SQLite database and RoomDatabase?
+8. How many and which class do we have to declare to create DB?
+9. What is Dao?
+10. What is Entity class?
+    
+
+---
+
+
+### API
+
+1. Definition of API.
+2. Full form of API.
+3. Which kind of data can be used while API calling?
+4. Explain types of APIs.
+5. Explain the types of HTTP requests.
+6. How to call an API?
+7. By which packages we can call an API in Android and how?
+8. For a successfully arrived response after an API call, what response code did we should achieve?
+9. What is API Key?
+
+
+---
+
+
+
+
