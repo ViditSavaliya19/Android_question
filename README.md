@@ -27,6 +27,7 @@
 
 
 ### Activity and Fragments
+
 1. Definition of Activity.
 2. Explain the lifecycle of Activity.
 3. How to create launcher activity.
@@ -37,4 +38,49 @@
 8. What is Explicit Intent  Explain with an example.
 9. What is Implicit Intent Explain with an example.
 
-### 
+
+---
+
+
+### ListView, GridView & RecyclerView
+
+1. What use of ListView?
+2. What use of GridView?
+3. Which class is used to create built-in ListView & GridView?
+4. What is the Adapter class in Android?
+5. Difference between ListView & GridView?
+6. Which class is used to create a Custom adapter in Android?
+7. Difference between RecyclerView and ListView?
+8. Which class is used to create an Adapter of RecyclerView?
+9. How many functions are created in the recyclerview Adapter and which?
+10. How many functions are created in the BaseAdapter and which?
+11. What is the use of the ViewHolder class?
+12. How can set the RecyclerView Adapter click in Activity?
+
+
+---
+
+
+### Logic 
+
+1. What is the Model class?
+2. What is Helper class which can we use?
+
+
+---
+
+
+### Kotlin Fundamental 
+
+1. Which keyword is used to declare the variable in Kotlin?
+2. What is the difference between var and val keywords?
+3. Explain null sefty features of Kotlin.
+4. What is data class in Kotlin?
+5. Definition of constructor and its types.
+6. What is the difference between a mutable list and an immutable list in Kotlin?
+
+
+---
+
+
+### Database 
